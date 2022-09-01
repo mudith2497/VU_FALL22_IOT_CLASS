@@ -1,6 +1,6 @@
 # VU_FALL22_IOT_CLASS
 
-Hi everyone my name is Mudith 
+Hi everyone my name is Mudith Potta
 
 # MOTIVATION
 
