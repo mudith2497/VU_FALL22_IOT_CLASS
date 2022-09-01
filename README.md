@@ -12,7 +12,7 @@ The vision of this repository is to explore in depth knowledge and analysis of t
 
 # WHY IoT ?
 
-IoT has a capacity to enhance day to day life in a more smarter way in this generation and it also helps to solve many industry based problems related to controlling of the devices through internet. IoT can be engaged or involved with any sector of technology that is the beauty of IoT.
+IoT has a capacity to enhance day to day life in a more smarter way in this generation and it also helps to solve many industry based problems related to controlling of the devices through internet. IoT can be engaged or involved with any sector of technology that is the most interesting part of the IoT.
 
 
 
