@@ -10,10 +10,6 @@ I've done my undergraduation in Electronics and Instrumentation Engineering and 
 
 The vision of this repository is to explore in depth knowledge and analysis of the IoT and Devices related to it.
 
-# WHAT IS IoT ? 
-
-IoT ( Internet of Things ) basically describes the network of real time physical objects which are connected to sensors or other devices linked with different technologies for collecting or transferring the data through internet.
-
 # WHY IoT ?
 
 IoT has a capacity to enhance day to day life in a more smarter way in this generation and it also helps to solve many industry based problems related to controlling of the devices through internet. IoT can be engaged or involved with any sector of technology that is the beauty of IoT.
