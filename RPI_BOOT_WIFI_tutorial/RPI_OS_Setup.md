@@ -74,32 +74,6 @@ After Detection of the CLIENT in the router admin panel use SSH to login into yo
 
 make sure to you change your root login during setup from this point
 
-<img width="1440" alt="Installation" src="https://user-images.githubusercontent.com/107719838/190364793-b71a209f-ac9e-42de-b596-23b770364330.png">
-
-
-
-
-
-
-
-
-
-
-
-<img width="1440" alt="deit pi ssh" src="https://user-images.githubusercontent.com/107719838/190364941-b9946838-4f35-44b4-9dbe-6741993dd4f4.png">
-
-
-
-
-
-
-
-<img width="1440" alt="Installation" src="https://user-images.githubusercontent.com/107719838/190365309-0ae76d4a-16b7-4781-8233-f7689a1ec9bd.png">
-
-
-
-
-
 
 ## STEP 6 
 
@@ -114,9 +88,41 @@ Once you are logged into the pi finish setup and follow these particular steps
 <img width="1416" alt="user password change" src="https://user-images.githubusercontent.com/107719838/190365702-1c7d9868-df06-4d7e-af05-a90e75811946.png">
 
 
+
+
+<img width="1424" alt="UART CONSOLE" src="https://user-images.githubusercontent.com/107719838/190385480-ebdae142-593b-4ae8-a881-de9bb04bfd67.png">
+
+
+
+
+Select OK for the above step. 
+
+
+
+
+
+<img width="1440" alt="Main Menu" src="https://user-images.githubusercontent.com/107719838/190385623-2d64cf06-fb7b-4e06-a81a-8152882f6249.png">
+
+
+
+
+
+You can also browse menu from the main menu for the additional basic installations
+
+
+
+<img width="1440" alt="browse menu" src="https://user-images.githubusercontent.com/107719838/190385852-d3e9d569-3d48-4201-8bb3-a16dd09ba263.png">
+
+
+
+
+
 ## STEP 7
 
 You are now ready to start install IoT platform software.
+
+
+
 
 Continue with other installs such as: [IOT_Platform_Installation](https://github.com/mudith2497/VU_FALL22_IOT_CLASS/blob/main/RPI_BOOT_WIFI_tutorial/IOT_Platform_Install.md) mostly by using diepi-software setup.
 
