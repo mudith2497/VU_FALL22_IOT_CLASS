@@ -95,7 +95,7 @@ Once you are logged into the pi finish setup and follow these particular steps
 
 
 
-Select OK for the above step. 
+Select YES for the above step. 
 
 
 
