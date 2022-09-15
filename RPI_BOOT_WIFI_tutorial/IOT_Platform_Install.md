@@ -209,7 +209,19 @@ This step is about how to link and perform actions on NODE RED on RPI
 4.Install should note that it is working and later on on the top left corner you can search for the node tags or titles.
 
 
+
+
+
+
+
 5.pull a postgres node into a flow from the search bar and pull it in the graph interface.
+
+
+
+
+
+
+
 
 
 
@@ -226,87 +238,4 @@ It looks something like this :
 
 
 <img width="1250" alt="final flowchart " src="https://user-images.githubusercontent.com/107719838/190382030-f389e747-8e2e-41c2-a667-5a6f3b9e8556.png">
-
-
-
-
-
-
-     
-     
-     
-
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-
-
-
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
