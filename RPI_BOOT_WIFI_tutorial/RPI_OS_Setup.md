@@ -1,4 +1,4 @@
-# Setting up dietpi on a Raspberry PI via wifi
+# How to Setup dietpi on a Raspberry PI using local wifi network
 
 ## HARDWARE INFORMATION FOR THE SETUP
 
