@@ -100,7 +100,8 @@ During the Installation it might look like this
 2. similarly type the following commands into the next steps 
             
                 createuser pi -P --interactive ( this creates a user for SQL queries )
-                Enter a password after this step and remember that password
+                (Enter a password after this step and remember that password)
+                (select NO for superuser, and YES for the next two questions in the terminal itself.)
                 
                 psql
                 
@@ -157,11 +158,19 @@ This step is about how to link and perform actions on NODE RED on RPI
   
   
   
+  
+  
+  
   2. Install node-red-contrib-re-postgres in your ssh command line using: " npm install node-red-contrib-re-postgres "
  
      
      Restart node-red with the command :  " dietpi-services restart node-red " 
      
+  
+  
+  
+  
+  
   
   
   
@@ -174,7 +183,13 @@ This step is about how to link and perform actions on NODE RED on RPI
 
 
 
+
+
+
+
+
 <img width="1249" alt="flow graphsheet" src="https://user-images.githubusercontent.com/107719838/190381354-4950c8ad-da5b-492d-a6c6-5f5569b7c516.png">
+
 
 
 
