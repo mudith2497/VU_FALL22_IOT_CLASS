@@ -174,7 +174,18 @@ This step is about how to link and perform actions on NODE RED on RPI
   
   
   
+  
+  
+  
+  
+  
+  
+  
   3. Go to Manage Pallet in your node-red browser and search for " install node-red-contrib-postgresql "  This particular Model must be downloaded in Node-red browser.
+ 
+ 
+ 
+ 
  
 
 <img width="1440" alt="install node redpostgresql module" src="https://user-images.githubusercontent.com/107719838/190380877-758c0633-a321-4e71-87a0-75be9356deb8.png">
