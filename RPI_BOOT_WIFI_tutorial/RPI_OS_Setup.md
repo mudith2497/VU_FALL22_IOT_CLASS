@@ -82,10 +82,6 @@ make sure to you change your root login during setup from this point
 
 
 
-<img width="590" alt="booting" src="https://user-images.githubusercontent.com/107719838/190365187-cbf79b69-4a9a-41b4-8205-89b3fb546c16.png">
-
-
-
 
 
 
