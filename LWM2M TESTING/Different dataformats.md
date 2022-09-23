@@ -1,6 +1,6 @@
 # Data Formats for Transferring Resource Information
 
-## Four data formats are defined by the LWM2M Enabler in this section. The LWM2M Server MUST support all data formats. The plain text and opaque formats MUST be supported by the LWM2M Client. The LWM2M Client MUST support the TLV data format for Object Instance or multiple-instance Resource requests.
+###  Four data formats are defined by the LWM2M Enabler in this section. The LWM2M Server MUST support all data formats. The plain text and opaque formats MUST be supported by the LWM2M Client. The LWM2M Client MUST support the TLV data format for Object Instance or multiple-instance Resource requests.
 
 
 # Plain Text
