@@ -83,9 +83,9 @@ press enter and it should show that the software
 
 # Continue to the ESP32 lwm2m client build
 
+For the further details click here : 
 
-
-[ESP32 IDF INSTALL] (https://github.com/mudith2497/VU_FALL22_IOT_CLASS/tree/main/RPI_ESP_IDF_tutorial#readme)
+[ESP32 IDF INSTALL]:(https://github.com/mudith2497/VU_FALL22_IOT_CLASS/tree/main/RPI_ESP_IDF_tutorial#readme)
 
 
 
